@@ -1,0 +1,28 @@
+﻿  Console.cpp
+D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Console.cpp(23,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Console.cpp(23,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Dangnhap.cpp
+  Donhang.cpp
+D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Donhang.cpp(48,36): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Hanghoa.cpp
+D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Hanghoa.cpp(77,20): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Hanghoa.cpp(81,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  main.cpp
+D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Queue.h(91,3): warning C4551: function call missing argument list
+  (compiling source file 'main.cpp')
+      D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Queue.h(91,3):
+      the template instantiation context (the oldest one first) is
+          D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Functions.h(138,4):
+          see reference to class template instantiation 'Queue<cOrder>' being compiled
+          D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Queue.h(89,26):
+          while compiling class template member function 'Name Queue<Name>::peek(void)'
+          with
+          [
+              Name=cOrder
+          ]
+              D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Functions.h(393,22):
+              see the first reference to 'Queue<cOrder>::peek' in 'Manager_Goods'
+  
+  Generating Code...
+D:\Năm2-HK3\Môn học\CTDLTEST\N4_Project4\Console.cpp(50,1): warning C4715: 'conSole::inputKey': not all control paths return a value
+  N4_Project4.vcxproj -> D:\Năm2-HK3\Môn học\CTDLTEST\x64\Debug\N4_Project4.exe
